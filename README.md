@@ -1,69 +1,9 @@
-# Pothole-detection-System
 # Pothole-Detection-System
 
 Pothole detection and classification using ResNet101 deep learning model
 
-## Demo
-
-Link: Add your deployed app link here
-
 ---
 
-## Get Started
-
-### Create a new environment
-
-```bash
-conda create -p venv python==3.10.6 -y
-```
-
-### Activate the environment
-
-```bash
-conda activate venv/
-```
-
-### Install the requirements
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Start the server
-
-Open a new terminal and type:
-
-```bash
-gunicorn app:app
-```
-
----
-
-## Start the web app
-
-Open a new terminal
-
-```bash
-cd client
-```
-
-### Install dependencies
-
-```bash
-npm install
-```
-
-### Start the React app
-
-```bash
-npm start
-```
-
-And you are good to go! 🚀
-
----
 
 # About the Project
 
@@ -192,24 +132,14 @@ The frontend communicates with the Flask/FastAPI backend through REST API calls.
 We used:
 
 * React JS
-* Axios
+* 
 * CSS
-* Bootstrap/Tailwind CSS
+* Bootstrap
 
 to build an interactive and responsive user interface.
 
 ---
 
-# Future Improvements
-
-* Real-time pothole detection using live camera feeds
-* GPS-based pothole mapping system
-* Integration with smart city infrastructure
-* Mobile application support
-* Detection of road cracks and other damages
-* Deployment using Docker and Kubernetes
-
----
 
 # Tech Stack
 
@@ -217,14 +147,12 @@ to build an interactive and responsive user interface.
 
 * Flask
 * FastAPI
-* Gunicorn
 * Python
 
 ## Frontend
 
 * React JS
-* Axios
-* CSS / Bootstrap
+* CSS 
 
 ## Deep Learning
 
