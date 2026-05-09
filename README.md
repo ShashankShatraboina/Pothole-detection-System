@@ -9,7 +9,7 @@ Pothole detection and classification using ResNet101 deep learning model
 
 ### 🏠 Home Page
 <p align="center">
-  <img src="./Readme_resource/Screenshot 2026-05-09 180253.png" alt="Home Page" width="800"/>
+  <img src="./Screenshot 2026-05-09 180253.png" alt="Home Page" width="800"/>
 </p>
 
 ### 📸 Image 2
