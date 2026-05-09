@@ -9,15 +9,13 @@ Pothole detection and classification using ResNet101 deep learning model
 
 ## Demo
 ## Demo
-
 <b>Link:</b> https://github.com/ShashankShatraboina/Pothole-detection-System
 
-<p align="center">
+<p>
+<img src="./Readme_resource/Image1.png" width="800">
+<img src="./Readme_resource/Image2.png" width="800">
 
-<a href="https://github.com/ShashankShatraboina/Pothole-detection-System/raw/master/Screen%20Recording%202025-11-09%20235818.mp4">
-  <img src="https://img.youtube.com/vi/dummy/maxresdefault.jpg" width="800">
-</a>
-
+https://github.com/ShashankShatraboina/Pothole-detection-System/raw/master/Screen%20Recording%202025-11-09%20235818.mp4
 </p>
 
 ## Problem Statement
