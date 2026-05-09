@@ -7,6 +7,10 @@ Pothole detection and classification using ResNet101 deep learning model
 
 # About the Project
 
+## Demo Video
+
+https://github.com/ShashankShatraboina/Pothole-detection-System/raw/master/Screen%20Recording%202025-11-09%20235818.mp4
+
 ## Problem Statement
 
 Road potholes are one of the major causes of traffic accidents, vehicle damage, and poor road safety. Manual road inspection methods are time-consuming, expensive, and inefficient for monitoring large road networks. Therefore, there is a need for an automated pothole detection system that can accurately identify potholes from road images in real time.
