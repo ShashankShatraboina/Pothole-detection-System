@@ -12,22 +12,22 @@ Pothole detection and classification using ResNet101 deep learning model
   <img src="./Screenshot 2026-05-09 180253.png" alt="Home Page" width="800"/>
 </p>
 
-### 📸 Image 2
+### 📸 Upload Img
 <p align="center">
   <img src="./Screenshot 2026-05-09 180409.png" alt="Image 2" width="800"/>
 </p>
 
-### 📸 Image 3
+### 📸 Good Condition
 <p align="center">
   <img src="./Screenshot 2026-05-09 180451.png" alt="Image 3" width="800"/>
 </p>
 
-### 📸 Image 4
+### 📸 Satisfactory Condition
 <p align="center">
   <img src="./Screenshot 2026-05-09 180706.png" alt="Image 4" width="800"/>
 </p>
 
-### 📸 Image 5
+### 📸 Very Poor Condition
 <p align="center">
   <img src="./Screenshot 2026-05-09 180726.png" alt="Image 5" width="800"/>
 </p>
